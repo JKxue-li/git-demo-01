@@ -1,5 +1,6 @@
 # 標題一
-## 標題二。
+
+## 標題二
 
  我的爱好是
 
@@ -14,6 +15,12 @@
   2. 迪丽热巴
   3. 古力娜扎
 
-  ```javsscript
-  console.log('hello')
-  ``` 
+![我的照片](1.jpg)
+
+  我的网站是[我的官网](https://jiangkai.com)
+
+
+
+    ```javsscript
+  
+    ``` 
